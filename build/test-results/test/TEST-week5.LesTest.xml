@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="week5.LesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-06-19T10:34:09" hostname="iMac-6.local" time="0.002">
+<testsuite name="week5.LesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-06-19T12:30:59" hostname="iMac-6.local" time="0.001">
   <properties/>
-  <testcase name="primeNumberReturnsTrueIfValueIsPrimeb" classname="week5.LesTest" time="0.001"/>
+  <testcase name="primeNumberReturnsTrueIfValueIsPrimeb" classname="week5.LesTest" time="0.0"/>
   <testcase name="negativeNumbersAreNotPrimes" classname="week5.LesTest" time="0.0"/>
-  <testcase name="primeNumberReturnsFalseIfValueIsNotPrime" classname="week5.LesTest" time="0.001"/>
+  <testcase name="primeNumberReturnsFalseIfValueIsNotPrime" classname="week5.LesTest" time="0.0"/>
   <testcase name="oneIsNotAPrime" classname="week5.LesTest" time="0.0"/>
   <testcase name="primeNumberReturnsTrueIfValueIsPrime" classname="week5.LesTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

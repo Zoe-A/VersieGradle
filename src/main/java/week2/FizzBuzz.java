@@ -2,6 +2,11 @@ package week2;
 
 public class FizzBuzz {
     public static void main(String[] args) {
+
+        if (args.length>=1) {
+            System.out.println("Welcome" + args[0]);
+        }
+
         int max = 25;
         int teller = 1;
 
